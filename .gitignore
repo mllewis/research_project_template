@@ -8,6 +8,7 @@
 .httr-oauth
 *_cache/*
 
+
 *.log
 
 
@@ -45,6 +46,7 @@
 *.xdy
 *.tdo
 *.Rhistory
+*.tex
 
 *.Rproj.user
 
